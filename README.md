@@ -6,3 +6,4 @@ Done in Krita under Fedora GNU/Linux, using ThinkPad x220 Tablet, completed at 2
 
 Uploaded at:
 - Github: https://github.com/TheArtOfFossa/2019-12-14-VarraWolverine
+- FA: http://www.furaffinity.net/view/34218464/
